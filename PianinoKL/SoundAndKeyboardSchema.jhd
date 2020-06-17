@@ -1,0 +1,5 @@
+MODULE SoundAndKeyboardSchema
+	SUBMODULE KeyBoard
+		INSTANCE XLXI_1
+	SUBMODULE Sawtooth
+		INSTANCE XLXI_2

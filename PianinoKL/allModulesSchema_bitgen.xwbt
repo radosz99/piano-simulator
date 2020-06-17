@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\UCISW2\LisKot\Ucisw2_P\PianinoKL\allModulesSchema.ncd
+OUTFILE=D:\UCISW2\LisKot\Ucisw2_P\PianinoKL\allModulesSchema.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\UCISW2\LisKot\Ucisw2_P\PianinoKL
+LICENSE=WebPack
+USER_INFO=211824592_0_0_929

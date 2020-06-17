@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/UCISW2/LisKot/Ucisw2_P/PianinoKL/VGAAndSoundAndKeyboardSchema_VGAAndSoundAndKeyboardSchema_sch_tb_isim_beh.exe" -prj "D:/UCISW2/LisKot/Ucisw2_P/PianinoKL/VGAAndSoundAndKeyboardSchema_VGAAndSoundAndKeyboardSchema_sch_tb_beh.prj" "work.VGAAndSoundAndKeyboardSchema_VGAAndSoundAndKeyboardSchema_sch_tb" 

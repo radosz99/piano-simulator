@@ -1,0 +1,2 @@
+vhdtdtfi -lib work KeyBoard.vhd -prj PianinoKotLis -o KeyBoard.spl -module KeyBoard -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e KeyBoard.spl D:/UCISW2/LisKot/Ucisw2_P/PianinoKL/KeyBoard.sym 
